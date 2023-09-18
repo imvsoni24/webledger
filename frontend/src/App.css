@@ -1,0 +1,14 @@
+.Heading{
+  font-weight: 30px;
+  font-size: 60px;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  margin-top: 60px;
+}
+
+
